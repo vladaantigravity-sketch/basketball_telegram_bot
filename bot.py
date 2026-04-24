@@ -71,21 +71,19 @@ TEXTS = {
 @Vladislava_Zhorzholiani ⬅️ задать вопросы""",
         "details_msg": """Стоимость тренировок: 💎
 
-🫂 Групповое занятие — 250k ₫ 
-Площадка оплачивается отдельно — 30k ₫ 
-(если сбор организует местный администратор)
-🎟 Абонемент на групповые занятия (4 тренировки) — 800k ₫ 
+🫂 Групповое занятие — 300k ₫  
+🎟 Абонемент на групповые занятия (4 тренировки) — 1 mln ₫  
 
-🫵 Индивидуальное занятие — 400k ₫ 
-🎟 Абонемент на 4 индивидуальные тренировки — 1200k ₫
+🫵 Индивидуальное занятие — 800k ₫  
+🎟 Абонемент на 4 индивидуальные тренировки — 2.8 mln ₫  
 
 Локация (https://maps.app.goo.gl/me8U2qbEep9wYKE57)📍
 
 При себе нужно иметь:
-👟 спортивную форму и обувь 
-🥤 питьевую воду 
-😉 хорошее настроение 
-🏀 баскетбольный мяч
+👟 спортивную форму и обувь  
+🥤 питьевую воду  
+😉 хорошее настроение  
+🏀 баскетбольный мяч  
 
 Расскажи о своем опыте игры @Vladislava_Zhorzholiani""",
         "media_msg": """Оставляю тут ссылку на мой <a href="https://www.instagram.com/zhorzholiani_vladislava?utm_source=qr&igsh=MWxmc2xpaGp2Y3E4aA==">профиль в инстаграме</a> 🤹‍♀️
@@ -148,24 +146,21 @@ Coaching is not my main occupation, but a way to create something truly meaningf
 Feel free to ask: @Vladislava_Zhorzholiani""",
         "details_msg": """Training Prices: 💎
 
-🫂 Group session — 250k ₫
-Court fee is paid separately — 30k ₫
-(if collected by the local administrator)
+🫂 Group session — 300k ₫  
+🎟 Group package (4 sessions) — 1 mln ₫  
 
-🎟 Group package (4 sessions) — 800k ₫
+🫵 Individual session — 800k ₫  
+🎟 Individual package (4 sessions) — 2.8 mln ₫  
 
-🫵 Individual session — 400k ₫ 
-🎟 Individual package (4 sessions) — 1200k ₫
+Location (https://maps.app.goo.gl/me8U2qbEep9wYKE57)📍
 
-📍 Location:
+Please bring:
+👟 sportswear and sneakers  
+🥤 drinking water  
+😉 good mood  
+🏀 basketball  
 
-What to bring:
-👟 sportswear & sneakers
-🥤 drinking water
-😉 good mood
-🏀 basketball
-
-Book a session here: @Vladislava_Zhorzholiani""",
+Tell me about your playing experience @Vladislava_Zhorzholiani""",
         "media_msg": """Check out my Instagram <a href="https://www.instagram.com/zhorzholiani_vladislava?utm_source=qr&igsh=MWxmc2xpaGp2Y3E4aA==">profile</a> 
 
 Training videos to see how sessions look and feel 🙌🏻
